@@ -20,7 +20,7 @@ This is an [awesome-list](https://github.com/sindresorhus/awesome) related to th
 
 <!-- description -->
 
-[Langchain](github.com/langchain-ai/langchain) A framework for 'chaining' language model calls with a large ecosystem that extends and iterates on the basic principle.
+A curated list of applied model configurations for various generative AI frameworks.
 
 </div>
 
@@ -38,9 +38,9 @@ This is an [awesome-list](https://github.com/sindresorhus/awesome) related to th
 
 - [Apple](https://apple.com) - Apple as a placeholder.
 
-## Section 1
+## Frameworks
 
-- [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
+- [Langchain](github.com/langchain-ai/langchain) A framework for 'chaining' language model calls with a large ecosystem that extends and iterates on the basic principle.
 
 <!-- END CONTENT -->
 
